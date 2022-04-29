@@ -1,0 +1,85 @@
+
+body{
+    background-color: #f7f7f7;
+    max-width: 100%;
+}
+.cabeçalho{
+    text-align: center;
+    max-width: 100%;
+}
+.foto{
+    max-height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+    max-width: 100%;
+}
+#title{
+ margin-top: 2px;
+ font-size: 40px;
+ color: black;
+ text-align: center;
+ font-family: cursive;
+ font-style: italic;
+ text-decoration: overline;
+ max-width: 100%;
+}
+.subtitle{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    max-width: 100%;
+   }
+.posttitle{
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    max-width: 100%;
+} 
+.texto{
+    font-size: 30px;
+    font-style: oblique;
+    font-family: calibri;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+    margin: 0;
+    margin-bottom: 15px;
+    max-width: 100%;
+}
+.post {
+    background-color: white;
+    padding: 15px;
+    border: 3px dashed black;
+    margin: 10px;
+    border-radius: 50px;
+    text-align: center;
+    max-width: 100%;
+}
+.imagem{
+    margin-bottom: 15px;
+    max-width: 100%;
+}
+.lista{
+    text-align: center;
+    list-style-type: none;
+    max-width: 100%;
+}
+.lista li a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    max-width: 100%;
+}
+.linkedin, .gmail, .github{
+    width: 30px;
+    max-width: 100%;
+
+}
+.facebook{
+    text-decoration: none;
+    max-width: 100%;
+}
